@@ -11,7 +11,7 @@ public class App {
 
         // Mahasiswa siswa1 = new Mahasiswa("siswa 1", 2.6f);
         // Mahasiswa siswa2 = new Mahasiswa(4, 3.4f);
-        
+
         // siswa1.getName();
         // siswa1.setName("siswa3");
         // siswa1.getName();
@@ -21,7 +21,7 @@ public class App {
 
         // System.out.println(Kotak.luas(kotak1));
         // System.out.println(kotak1.luas());
-        
+
         // Kampus kampus1 = new Kampus("ITK", "Balikpapan", 'S');
         // Kampus kampus2 = new Kampus("ITS", "Surabaya", 'Z');
         // kampus1.ToString();
