@@ -1,19 +1,19 @@
 public class Kategori {
     private String jenis;
 
-    Kategori(String jenis){
+    Kategori(String jenis) {
         this.jenis = jenis;
     }
 
-    public String getJenis(){
+    public String getJenis() {
         return this.jenis;
     }
 
-    public void setJenis(String jenis){
+    public void setJenis(String jenis) {
         this.jenis = jenis;
     }
 
-    public String toString(){
+    public String toString() {
         return "Kategori : " + this.jenis;
     }
 }

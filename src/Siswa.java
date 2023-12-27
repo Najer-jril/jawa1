@@ -3,26 +3,27 @@ public class Siswa {
 
     private String name;
     private int umur;
-    
-    Siswa(String name, int umur){
+
+    Siswa(String name, int umur) {
         this.name = name;
         this.umur = umur;
 
         total += 1;
     }
 
-    public String getName(){
+    public String getName() {
         return name;
     }
 
-    public int getUmur(){
+    public int getUmur() {
         return umur;
     }
-    public void displayName(){
+
+    public void displayName() {
         System.out.println(name);
     }
 
-    public static void displayTotal(){
+    public static void displayTotal() {
         System.out.println(total);
     }
 }
